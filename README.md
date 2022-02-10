@@ -52,6 +52,6 @@ OnurChngr.createDay();
 </a>
 
 
-<div align="left">
+<div align="center">
 
 
