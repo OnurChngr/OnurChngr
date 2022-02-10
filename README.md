@@ -44,13 +44,14 @@ OnurChngr.createDay();
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurChngr&theme=light&hide_langs_below=1" />
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 - <img src="https://komarev.com/ghpvc/?username=OnurChngr&label=Ziyaretçi%20Sayısı&color=723F98" alt="OnurChngr"/> <a href="https://github.com/OnurChngr">
+- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurChngr&theme=light&hide_langs_below=1" />
  
  
 </a>
 
 
-<div align="center">
+<div align="left">
 
 
