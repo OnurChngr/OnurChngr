@@ -1,4 +1,5 @@
-class créams {
+```js
+class OnurChngr {
   constructor(...options) {
     this.height = "1.70"
     this.weight = "50"
@@ -9,7 +10,7 @@ class créams {
   }
 }
 
-class CreateMan extends créams {
+class CreateMan extends OnurChngr {
   constructor(...options) {
     super(options);
   }
@@ -35,3 +36,14 @@ class CreateMan extends créams {
 
 let OnurChngr = new CreateMan()
 OnurChngr.createDay();
+```
+
+
+
+##  Dostlarım
+- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<img src="https://komarev.com/ghpvc/?username=TheWingsss&label=Ziyaretçi%20Sayısı&color=723F98" alt="TheWingsss"/>
