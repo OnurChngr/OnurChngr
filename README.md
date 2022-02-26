@@ -1,4 +1,14 @@
 ```js
+
+<img src="<iframe src="https://giphy.com/embed/dMLmQfCO7lCA2gX3tw" width="480" height="369" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-dMLmQfCO7lCA2gX3tw">via GIPHY</a></p>" align ="right" width="400" height="250">
+
+### Hi there, I'm Onur. :blush:
+
+## React Developer | Student
+
+
+<font color ="blue"> Coffee coffee is how I keep up with '<code />' </font>
+
 class OnurChngr {
   constructor(...options) {
     this.height = "1.70"    
