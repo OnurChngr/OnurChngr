@@ -12,7 +12,7 @@ Skills: C#/ PYTHON/ HTML
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OnurChngr)  
 
-'''js
+```js
 class OnurChngr {
   constructor(...options) {
     this.height = "1.70"    
