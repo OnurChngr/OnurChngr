@@ -1,6 +1,7 @@
 
 ### Hi there 👋, my name is Onur
 #### I am Developer |Student
+![I am Developer |Student](https://instagram.fist7-2.fna.fbcdn.net/v/t51.2885-19/245314605_154333746906600_5480356778939950256_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fist7-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=nxwxH_cj1TsAX8k3UFQ&tn=xJdQiQUH8VIpkxFR&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8-ohmP2IlcRsUyoOwYUFATvgqm95rhivvj6WPL3PdNQQ&oe=62234346&_nc_sid=7bff83)
 
 Reading Software
 
@@ -10,6 +11,8 @@ Skills: C#/ PYTHON/ HTML
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OnurChngr)  
+
+
 
 ```js
 class OnurChngr {
