@@ -1,7 +1,12 @@
 ```js
- Hi there, I'm Onur.
+ ###Hi there, I'm Onur.
 
- React Developer | Student
+ ## React Developer | Student
+ 
+ </a>
+
+
+<div align="center">
 
 class OnurChngr {
   constructor(...options) {
@@ -54,7 +59,6 @@ OnurChngr.createDay();
   
 - [![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnurChngr&theme=dark&hide_langs_below=1")](https://github.com/OnurChngr/github-readme-stats)
  
- [![Discord Presence](https://discord.com/channels/@me](https://discord.com/channels/@me)
  
  
 </a>
