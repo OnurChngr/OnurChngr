@@ -1,13 +1,9 @@
 ```js
- ###Hi there, I'm Onur.
+Hi there, I'm Onur.
 
- ## React Developer | Student
+React Developer | Student
  
- </a>
-
-
-<div align="center">
-
+ 
 class OnurChngr {
   constructor(...options) {
     this.height = "1.70"    
