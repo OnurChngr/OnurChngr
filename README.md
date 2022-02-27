@@ -5,7 +5,11 @@
 
 ## Skills and Experience
 *💻 C#,PYTHON,HTML
+
 *👨‍💻 I love coding
+
+##GIF
+<img src="https://media2.giphy.com/media/Q7SKqn3G97xpmfSOvG/200.gif"width="256"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OnurChngr)  
 
