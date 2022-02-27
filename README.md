@@ -54,6 +54,8 @@ OnurChngr.createDay();
   
 - [![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnurChngr&theme=dark&hide_langs_below=1")](https://github.com/OnurChngr/github-readme-stats)
  
+ [![Discord Presence](https://lanyard.cnrad.dev/api/719526515032850484)](https://discord.com/channels/@me)
+ 
  
 </a>
 
