@@ -53,7 +53,6 @@ OnurChngr.createDay();
 - <img src="https://komarev.com/ghpvc/?username=OnurChngr&label=Ziyaretçi%20Sayısı&color=723F98" alt="OnurChngr"/> <a href="https://github.com/OnurChngr">
 - <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurChngr&theme=light&hide_langs_below=1" />
   
-- [![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnurChngr&theme=dark&hide_langs_below=1")](https://github.com/OnurChngr/github-readme-stats)
 - ![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnurChngr&show_icons=true&theme=radical)
  
  
