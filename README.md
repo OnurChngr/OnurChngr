@@ -1,3 +1,17 @@
+![I am Developer |Student](https://instagram.fist7-2.fna.fbcdn.net/v/t51.2885-19/245314605_154333746906600_5480356778939950256_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fist7-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=nxwxH_cj1TsAX8k3UFQ&tn=xJdQiQUH8VIpkxFR&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8-ohmP2IlcRsUyoOwYUFATvgqm95rhivvj6WPL3PdNQQ&oe=62234346&_nc_sid=7bff83)
+
+### Hi there 👋, I'm Onur 😊
+#### I am Developer👨‍💻 |Student👨‍🎓
+
+## Skills and Experience
+*💻 C#,PYTHON,HTML
+
+*👨‍💻 I love coding
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OnurChngr)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_0nur.chn_/)
+
 ## Tim's Community Chess Tournament
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
@@ -12,22 +26,6 @@
 | 3 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 | 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) |
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/Q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
-
-
-
-![I am Developer |Student](https://instagram.fist7-2.fna.fbcdn.net/v/t51.2885-19/245314605_154333746906600_5480356778939950256_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fist7-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=nxwxH_cj1TsAX8k3UFQ&tn=xJdQiQUH8VIpkxFR&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8-ohmP2IlcRsUyoOwYUFATvgqm95rhivvj6WPL3PdNQQ&oe=62234346&_nc_sid=7bff83)
-
-### Hi there 👋, I'm Onur 😊
-#### I am Developer👨‍💻 |Student👨‍🎓
-
-## Skills and Experience
-*💻 C#,PYTHON,HTML
-
-*👨‍💻 I love coding
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OnurChngr)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_0nur.chn_/)  
 
 
 
@@ -51,5 +49,7 @@
 
 
 <div align="center">
+  
+  
 
 
