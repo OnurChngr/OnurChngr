@@ -1,11 +1,11 @@
 ```js
 ### Hi there 👋, my name is Onur
-#### I am Developer | Student
-![I am Developer | Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am Developer |Student
+![I am Developer |Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Reading Software
 
-Skills: C# / PYTHON / HTML / 
+Skills: C#/ PYTHON/ HTML 
 
 - 🔭 I’m currently working on this page. 
 
