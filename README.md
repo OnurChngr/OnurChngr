@@ -1,4 +1,3 @@
-```js
 ### Hi there 👋, my name is Onur
 #### I am Developer |Student
 ![I am Developer |Student](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Ftag%2F4k-programmer-wallpapers&psig=AOvVaw1eQgOJHEoKstPOLkzS-LPt&ust=1646047802307000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjswYLkn_YCFQAAAAAdAAAAABAD)
