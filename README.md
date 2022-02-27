@@ -1,8 +1,15 @@
 ```js
-Hi there, I'm Onur.
+### Hi there 👋, my name is Onur
+#### I am Developer | Student
+![I am Developer | Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-React Developer | Student
- 
+Reading Software
+
+Skills: C# / PYTHON / HTML / 
+
+- 🔭 I’m currently working on this page. 
+
+
  
 class OnurChngr {
   constructor(...options) {
