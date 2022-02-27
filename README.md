@@ -1,4 +1,7 @@
 ```js
+### Hi there, I'm Onur.
+
+## React Developer | Student
 
 class OnurChngr {
   constructor(...options) {
