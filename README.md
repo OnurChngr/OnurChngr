@@ -1,16 +1,18 @@
 ```js
 ### Hi there 👋, my name is Onur
 #### I am Developer |Student
-![I am Developer |Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Developer |Student](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Ftag%2F4k-programmer-wallpapers&psig=AOvVaw1eQgOJHEoKstPOLkzS-LPt&ust=1646047802307000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjswYLkn_YCFQAAAAAdAAAAABAD)
 
 Reading Software
 
 Skills: C#/ PYTHON/ HTML 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on My own company 
 
 
- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OnurChngr)  
+
+
 class OnurChngr {
   constructor(...options) {
     this.height = "1.70"    
