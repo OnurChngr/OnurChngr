@@ -50,7 +50,7 @@ Welcome to Onur Cihangir's profile! <img src="https://media.giphy.com/media/12ou
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=OnurChngr&theme=react-dark&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OnurCihagir's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=OnurChngr&theme=react-dark&hide_border=true" /></a>
  
  
  
