@@ -36,6 +36,21 @@ Welcome to Onur Cihangir's profile! <img src="https://media.giphy.com/media/12ou
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OnurChngr's streak" src="https://github-readme-streak-stats.herokuapp.com?user=OnurChngr&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
+  
+  # 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NeerajRathod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OnurChngr&show_icons=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neeraj Rathod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurChngr&layout=compact" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Neeraj2002&theme=react-dark&hide_border=true" /></a>
  
  
  
