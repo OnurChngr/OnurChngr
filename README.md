@@ -4,7 +4,7 @@ Welcome to Onur Cihangir's profile! <img src="https://media.giphy.com/media/12ou
 </h3>
 
 ### Hi there 👋, I'm Onur 😊
-#### I'm Back-End Developer👨‍💻 |Student👨‍🎓
+#### I'm Front-End Developer👨‍💻 |Student👨‍🎓
 
 ## Skills and Experience
 *💻 C#,CSS,HTML,jS
