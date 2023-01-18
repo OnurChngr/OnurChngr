@@ -4,8 +4,8 @@ Welcome to Onur Cihangir's profile! <img src="https://media.giphy.com/media/12ou
 </h3>
 
 ### Hi there 👋, I'm Onur 😊
-#### I'm Front-End Developer👨‍💻 |Student👨‍🎓
-### 👨‍💻 I love coding
+#### I'm Front-End Developer 👨‍💻 |Student 👨‍🎓
+###  I love coding 👨‍💻 
 
 <br>
 
