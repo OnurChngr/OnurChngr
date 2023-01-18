@@ -19,8 +19,7 @@ Welcome to Onur Cihangir's profile! <img src="https://media.giphy.com/media/12ou
 <a href="https://discord.gg/օռʊʀ#8240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="օռʊʀ#8240" height="30" width="40" /></a>
   </p>
 
-```
-```
+
 
 
 
