@@ -4,8 +4,8 @@ Welcome to Onur Cihangir's profile! <img src="https://media.giphy.com/media/12ou
 </h3>
 
 ### Hi there 👋, I'm Onur 😊
-###  I'm 17 years old👨‍💻 
-###  I'm studying at Mehmet Rifat Evyap High School 👨‍🎓
+###  I'm 18 years old👨‍💻 
+###  I'm studying at Atlas University 👨‍🎓
 #### I'm Front-End Developer| Game Developer 👨‍💻
 ###  I love coding 👨‍💻 
 
